@@ -1,0 +1,32 @@
+id_nb;name;type_1;type_2;link;data_species;data_height;data_weight;data_abilities;training_catch_rate;
+    training_base_exp;training_growth_rate; breeding_gender;stats_hp;stats_attack;stats_defense; stats_sp_atk;stats_sp_def;
+    stats_speed;stats_total;
+#001;Bulbasaur;Grass;Poison;/pokedex/bulbasaur;Seed Pokémon;0.7;6.9;Overgrow;45;64;Medium Slow;87.5% male, 12.5% female;45;49;49;65;65;45;318
+#002;Ivysaur;Grass;Poison;/pokedex/ivysaur;Seed Pokémon;1.0;13.0;Overgrow;45;142;Medium Slow;87.5% male, 12.5% female;60;62;63;80;80;60;405
+#003;Venusaur;Grass;Poison;/pokedex/venusaur;Seed Pokémon;2.0;100.0;Overgrow;45;236;Medium Slow;87.5% male, 12.5% female;80;82;83;100;100;80;525
+#004;Charmander;Fire;Nan;/pokedex/charmander;Lizard Pokémon;0.6;8.5;Blaze;45;62;Medium Slow;87.5% male, 12.5% female;39;52;43;60;50;65;309
+#005;Charmeleon;Fire;Nan;/pokedex/charmeleon;Flame Pokémon;1.1;19.0;Blaze;45;142;Medium Slow;87.5% male, 12.5% female;58;64;58;80;65;80;405
+#006;Charizard;Fire;Flying;/pokedex/charizard;Flame Pokémon;1.7;90.5;Blaze;45;240;Medium Slow;87.5% male, 12.5% female;78;84;78;109;85;100;534
+#007;Squirtle;Water;Nan;/pokedex/squirtle;Tiny Turtle Pokémon;0.5;9.0;Torrent;45;63;Medium Slow;87.5% male, 12.5% female;44;48;65;50;64;43;314
+#008;Wartortle;Water;Nan;/pokedex/wartortle;Turtle Pokémon;1.0;22.5;Torrent;45;142;Medium Slow;87.5% male, 12.5% female;59;63;80;65;80;58;405
+#009;Blastoise;Water;Nan;/pokedex/blastoise;Shellfish Pokémon;1.6;85.5;Torrent;45;239;Medium Slow;87.5% male, 12.5% female;79;83;100;85;105;78;530
+#010;Caterpie;Bug;Nan;/pokedex/caterpie;Worm Pokémon;0.3;2.9;Shield Dust;255;39;Medium Fast;50% male, 50% female;45;30;35;20;20;45;195
+#011;Metapod;Bug;Nan;/pokedex/metapod;Cocoon Pokémon;0.7;9.9;Shed Skin;120;72;Medium Fast;50% male, 50% female;50;20;55;25;25;30;205
+#012;Butterfree;Bug;Flying;/pokedex/butterfree;Butterfly Pokémon;1.1;32.0;Compound Eyes;45;178;Medium Fast;50% male, 50% female;60;45;50;90;80;70;395
+#013;Weedle;Bug;Poison;/pokedex/weedle;Hairy Bug Pokémon;0.3;3.2;Shield Dust;255;39;Medium Fast;50% male, 50% female;40;35;30;20;20;50;195
+#014;Kakuna;Bug;Poison;/pokedex/kakuna;Cocoon Pokémon;0.6;10.0;Shed Skin;120;72;Medium Fast;50% male, 50% female;45;25;50;25;25;35;205
+#015;Beedrill;Bug;Poison;/pokedex/beedrill;Poison Bee Pokémon;1.0;29.5;Swarm;45;178;Medium Fast;50% male, 50% female;65;90;40;45;80;75;395
+#016;Pidgey;Normal;Flying;/pokedex/pidgey;Tiny Bird Pokémon;0.3;1.8;Keen Eye;255;50;Medium Slow;50% male, 50% female;40;45;40;35;35;56;251
+#017;Pidgeotto;Normal;Flying;/pokedex/pidgeotto;Bird Pokémon;1.1;30.0;Keen Eye;120;122;Medium Slow;50% male, 50% female;63;60;55;50;50;71;349
+#018;Pidgeot;Normal;Flying;/pokedex/pidgeot;Bird Pokémon;1.5;39.5;Keen Eye;45;216;Medium Slow;50% male, 50% female;83;80;75;70;70;101;479
+#019;Rattata;Normal;Nan;/pokedex/rattata;Mouse Pokémon;0.3;3.5;Run Away;255;51;Medium Fast;50% male, 50% female;30;56;35;25;35;72;253
+#020;Raticate;Normal;Nan;/pokedex/raticate;Mouse Pokémon;0.7;18.5;Run Away;127;145;Medium Fast;50% male, 50% female;55;81;60;50;70;97;413
+#021;Spearow;Normal;Flying;/pokedex/spearow;Tiny Bird Pokémon;0.3;2.0;Keen Eye;255;52;Medium Fast;50% male, 50% female;40;60;30;31;31;70;262
+#022;Fearow;Normal;Flying;/pokedex/fearow;Beak Pokémon;1.2;38.0;Keen Eye;90;155;Medium Fast;50% male, 50% female;65;90;65;61;61;100;442
+#023;Ekans;Poison;Nan;/pokedex/ekans;Snake Pokémon;2.0;6.9;Intimidate;255;58;Medium Fast;50% male, 50% female;35;60;44;40;54;55;288
+#024;Arbok;Poison;Nan;/pokedex/arbok;Cobra Pokémon;3.5;65.0;Intimidate;90;157;Medium Fast;50% male, 50% female;60;95;69;65;79;80;448
+#025;Pikachu;Electric;Nan;/pokedex/pikachu;Mouse Pokémon;0.4;6.0;Static;190;112;Medium Fast;50% male, 50% female;35;55;40;50;50;90;320
+#026;Raichu;Electric;Nan;/pokedex/raichu;Mouse Pokémon;0.8;30.0;Static;75;218;Medium Fast;50% male, 50% female;60;90;55;90;80;110;485
+#027;Sandshrew;Ground;Nan;/pokedex/sandshrew;Mouse Pokémon;0.6;12.0;Sand Veil;255;60;Medium Fast;50% male, 50% female;50;75;85;20;30;40;300
+#028;Sandslash;Ground;Nan;/pokedex/sandslash;Mouse Pokémon;1.0;29.5;Sand Veil;90;158;Medium Fast;50% male, 50% female;75;100;110;45;55;65;450
+#029;Nidoran
